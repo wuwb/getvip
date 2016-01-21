@@ -1,0 +1,39 @@
+{
+  "name": "getvip",
+  "version": "1.0.6",
+  "description": "get free vip account",
+  "main": "index.js",
+  "script": {
+    "aqy": "iqiyi.js",
+    "xl": "xunlei.js"
+  },
+  "bin": {
+    "getvip": "bin/getvip"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "colorful": "^2.1.0",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "author": "wuwenbin",
+  "license": "MIT",
+  "keywords": [
+    "免费",
+    "账号",
+    "迅雷",
+    "优酷",
+    "土豆",
+    "乐视",
+    "爱奇艺",
+    "PPS",
+    "free",
+    "vip",
+    "account",
+    "xunlei",
+    "iqiyi",
+    "youku",
+    "tudou",
+    "leshi"
+  ]
+}
